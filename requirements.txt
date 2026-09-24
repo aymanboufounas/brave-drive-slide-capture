@@ -1,0 +1,4 @@
+selenium>=4.20,<5
+Pillow>=10,<13
+numpy>=2,<3
+fpdf2>=2.8,<3

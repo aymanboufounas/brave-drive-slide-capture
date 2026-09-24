@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+slide_screenshots/
+*.pdf
+brave_screenshot_profile/
