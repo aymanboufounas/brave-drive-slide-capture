@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brave Drive Slide Capture
 
 Capture each visible slide from a Google Drive PDF preview in Brave, save PNG screenshots, and assemble two PDF files. The script uses your existing Brave `Default` profile, so you can open a PDF that requires your Google account.
@@ -39,3 +40,7 @@ The program finds the largest PDF page below Drive's toolbar from the first brow
 - **`Could not detect a full slide`**: try a different first page with a clear edge against the viewer background, or use the original PDF instead of browser screenshots.
 
 This project is an experimental screen capture utility. It does not bypass Google Drive access permissions or download restrictions.
+=======
+# brave-drive-slide-capture
+Capture complete slides from Google Drive PDF previews in Brave and export them as PNG images and split PDF files.
+>>>>>>> eca8304eb2be39feb105a39af77587742663ab11
